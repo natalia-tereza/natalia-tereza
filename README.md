@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Natalia Tereza 😁
+## Bem-vindo(a) 😁
 
  <div>
    <a href="https://github.com/natalia-tereza">
